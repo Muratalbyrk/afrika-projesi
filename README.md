@@ -1,3 +1,3 @@
-<h1> Afrika projesi </h1>
+<h1> PROJE ÖNİZLEMESİ </h1>
 
-![](proje.gif)
+<p><img align="center" src=
